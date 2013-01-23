@@ -84,7 +84,9 @@ PRODUCT_COPY_FILES := \
     vendor/malata/smba1002/proprietary/etc/firmware/nvmm_service.axf:system/etc/firmware/nvmm_service.axf \
     vendor/malata/smba1002/proprietary/etc/firmware/nvmm_sorensondec.axf:system/etc/firmware/nvmm_sorensondec.axf \
     vendor/malata/smba1002/proprietary/etc/firmware/nvmm_wavdec.axf:system/etc/firmware/nvmm_wavdec.axf \
-    vendor/malata/smba1002/proprietary/etc/firmware/nvrm_avp.bin:system/etc/firmware/nvrm_avp.bin 
+    vendor/malata/smba1002/proprietary/etc/firmware/nvrm_avp.bin:system/etc/firmware/nvrm_avp.bin \
+    vendor/malata/smba1002/proprietary/lib/libwvm.so:system/lib/libwvm.so \
+    vendor/malata/smba1002/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so 
 
 
 
